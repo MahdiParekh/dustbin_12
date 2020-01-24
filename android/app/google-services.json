@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630017030709",
+    "firebase_url": "https://dustbin-b6d77.firebaseio.com",
+    "project_id": "dustbin-b6d77",
+    "storage_bucket": "dustbin-b6d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630017030709:android:bbbc830bf2da550cd24f7c",
+        "android_client_info": {
+          "package_name": "com.mahdi121412.dustbin_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630017030709-0in62bdm793kg25qhn57b2najcoa30au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqNqAMob5z0_2BJCgENp78DUvInZVNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630017030709-0in62bdm793kg25qhn57b2najcoa30au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
